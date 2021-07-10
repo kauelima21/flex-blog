@@ -25,3 +25,24 @@ img {
 }
 
 /* MENU */
+.superinfo-bg {
+    background: #122ab2;
+    color: #fff;
+}
+
+.superinfo {
+    max-width: 960px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.superinfo p, .superinfo a {
+    margin: 0 10px 10px 10px;
+}
+
+.superinfo a {
+    color: #fff;
+}
